@@ -4,7 +4,6 @@
  <a href="#started">Sobre o Projeto</a> • 
   <a href="#routes">Funcionalidades</a> •
    <a href="#concept">Conceitos Aplicados</a> •
- <a href="#colab">Conceitos</a> •
  <a href="#contribute">Colaboradores</a>
 </p>
 
