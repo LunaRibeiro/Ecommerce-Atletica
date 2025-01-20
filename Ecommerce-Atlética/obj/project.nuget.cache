@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+WtF92250fmQ9OP7cdjGeYPxpJc1KB7AwwN80IsR4S5B3C90ubFghxv6i1w4ipaOzAkypzA20d03YQpQJl6rtw==",
+  "dgSpecHash": "Ar6CIZM4ee8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lunar\\OneDrive\\Área de Trabalho\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\POO-v2\\poo\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
