@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lunar\\.nuget\\packages\\": {}
+    "C:\\Users\\lucca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lunar\\OneDrive\\Área de Trabalho\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
+      "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
       "projectName": "Ecommerce-Atlética",
-      "projectPath": "C:\\Users\\lunar\\OneDrive\\Área de Trabalho\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
-      "packagesPath": "C:\\Users\\lunar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lunar\\OneDrive\\Área de Trabalho\\Ecommerce-Atletica\\Ecommerce-Atlética\\obj\\",
+      "projectPath": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
+      "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lunar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -42,8 +42,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
