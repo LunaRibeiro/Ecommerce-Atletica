@@ -1,4 +1,4 @@
-﻿using Ecommerce_Atletica.Models;
+using Ecommerce_Atletica.Models;
 
 class Program
 {

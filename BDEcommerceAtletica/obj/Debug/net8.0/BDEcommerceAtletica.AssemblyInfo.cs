@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDEcommerceAtletica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+133b25128dacb8cac1f1a2869d04e28180bbc0c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b8c54445fc2206ad78224ca4e0d373d12391ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDEcommerceAtletica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDEcommerceAtletica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

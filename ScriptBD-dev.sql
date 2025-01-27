@@ -1,6 +1,6 @@
-create database bdecommerceatletica
+create database bdecommerceatletica_dev
 
-use  bdecommerceatletica
+use  bdecommerceatletica_dev
 
 -- Criando a tabela tb_pessoa
 CREATE TABLE tb_pessoa(
@@ -90,9 +90,6 @@ create table tb_cupom_desconto(
     valor_desconto decimal (10,2) not null,
     foreign key (id_cliente) references tb_cliente(id)
     );
-
-
-
 
 
 
