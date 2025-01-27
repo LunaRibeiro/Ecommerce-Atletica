@@ -1,3 +1,7 @@
+create database bdecommerceatletica
+
+use  bdecommerceatletica
+
 -- Criando a tabela tb_pessoa
 CREATE TABLE tb_pessoa(
 	id int auto_increment primary key,
