@@ -1,0 +1,15 @@
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfo.cs
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.sourcelink.json
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.exe
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.deps.json
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.runtimeconfig.json
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.dll
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.pdb
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.dll
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\refint\Ecommerce-Atlética.dll
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.pdb
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.genruntimeconfig.cache
+C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\ref\Ecommerce-Atlética.dll
