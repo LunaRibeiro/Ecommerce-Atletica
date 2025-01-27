@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfoInputs.cache
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfo.cs
@@ -13,3 +14,20 @@ C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\D
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.pdb
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.genruntimeconfig.cache
 C:\Users\Lucas\Documents\POO-v2\poo\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\ref\Ecommerce-Atlética.dll
+=======
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.exe
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.deps.json
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.runtimeconfig.json
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.dll
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\bin\Debug\net8.0\Ecommerce-Atlética.pdb
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfoInputs.cache
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.AssemblyInfo.cs
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.csproj.CoreCompileInputs.cache
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.sourcelink.json
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.dll
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\refint\Ecommerce-Atlética.dll
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.pdb
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\Ecommerce-Atlética.genruntimeconfig.cache
+C:\Users\lucca\OneDrive\Documentos\UTFPR\POO\Ecommerce-Atletica\Ecommerce-Atlética\obj\Debug\net8.0\ref\Ecommerce-Atlética.dll
+>>>>>>> Lucca-dev

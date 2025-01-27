@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Lucas\\Documents\\POO-v2\\poo\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
+        "projectName": "Ecommerce-Atlética",
+        "projectPath": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\Ecommerce-Atlética.csproj",
+        "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucca\\OneDrive\\Documentos\\UTFPR\\POO\\Ecommerce-Atletica\\Ecommerce-Atlética\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucca\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> Lucca-dev
         ],
         "originalTargetFrameworks": [
           "net8.0"
