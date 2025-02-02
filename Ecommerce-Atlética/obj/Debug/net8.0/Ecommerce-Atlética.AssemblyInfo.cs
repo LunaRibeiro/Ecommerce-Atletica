@@ -13,15 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce-Atlética")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f38b31dcacaa57e894c079649a68f40f592a96")]
-=======
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fd02887527c49ad339c27104150e7e72a0151e")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b8c54445fc2206ad78224ca4e0d373d12391ba")]
->>>>>>> main
->>>>>>> Lucca-dev
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd1d55bd593e3fddf10ebb8fed95ab227842595")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerce-Atlética")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce-Atlética")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

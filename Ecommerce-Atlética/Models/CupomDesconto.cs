@@ -18,7 +18,7 @@ namespace Ecommerce_Atlética.model
             diretamente o valor do produto com desconto caso existe*/double valorProduto)
             {
                 if (TipoCliente == true){
-                    //Switch com valor de desconto para cada categoria de produto
+                    //Switch com valor de desconto para cada categoria de produto ou definição geral para simplificar?
                 }
                 return valorProduto;
             }
