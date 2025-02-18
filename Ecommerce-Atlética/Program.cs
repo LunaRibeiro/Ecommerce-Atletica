@@ -1,29 +1,22 @@
-/*
-﻿using Ecommerce_Atletica.Models;
+using System;
+using ECommerce;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        // Criando uma pessoa
-        Pessoa pessoa = new Pessoa { Id = 1, Nome = "João", Email = "joao@email.com" };
+        Cliente cliente = new Cliente();
+        cliente.CadastrarCliente(
+            "João Silva", "joaosilva", "senha123", "joao@email.com",
+            "123.456.789-00", "Rua das Flores, 123", new DateTime(1995, 5, 10),
+            "11987654321", true
+        );
 
-        // Criando uma categoria
-        Categoria categoria = new Categoria { Id = 1, Nome = "Eletrônicos" };
+        Console.WriteLine($"Nome: {cliente.Nome}");
+        Console.WriteLine($"Idade: {cliente.Idade}");
+        Console.WriteLine($"Ativo: {cliente.Ativo}");
 
-        // Criando produtos
-        Produto produto1 = new Produto { Id = 1, Nome = "Celular", Preco = 1500.00m, CategoriaId = 1 };
-        Produto produto2 = new Produto { Id = 2, Nome = "Notebook", Preco = 4500.00m, CategoriaId = 1 };
-
-        // Adicionando produtos ao carrinho
-        Carrinho carrinho = new Carrinho();
-        carrinho.Produtos.Add(produto1);
-        carrinho.Produtos.Add(produto2);
-
-        // Exibindo informações
-        Console.WriteLine($"Cliente: {pessoa.Nome} - Email: {pessoa.Email}");
-        Console.WriteLine($"Produtos no carrinho: {carrinho.Produtos.Count}");
-        Console.WriteLine($"Total: R$ {carrinho.Total}");
+        cliente.AlterarDadosCliente("Av. Paulista, 456", "11999998888", false);
+        cliente.ExcluirCliente();
     }
 }
-*/
